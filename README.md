@@ -85,34 +85,19 @@ end
 endmodule
 ```
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER :
-```
 UP COUNTER:
 ![ex6uprtl](https://github.com/LokeshRajamani/Exp-7-Synchornous-counters-/assets/120544804/29a36df0-2d9c-43d2-bcb4-e0ba1d908ad0)
-```
-```
 DOWN COUNTER:
 ![ex6downrtl](https://github.com/LokeshRajamani/Exp-7-Synchornous-counters-/assets/120544804/0469063a-6853-49da-b836-1ce1b295c376)
-
-```
 ### TIMING DIGRAMS FOR COUNTER :
-```
 UP COUNTER:
 ![ex6uptt](https://github.com/LokeshRajamani/Exp-7-Synchornous-counters-/assets/120544804/d206e240-a126-4844-a1cb-50a214f173a9)
-```
-```
 DOWN COUNTER:
 ![ex6downtt](https://github.com/LokeshRajamani/Exp-7-Synchornous-counters-/assets/120544804/ff7b829f-40e7-4a49-b27e-7452e35892b0)
-
-```
 ### TRUTH TABLE:
-```
 UP COUNTER:
 ![ex6uptruth](https://github.com/LokeshRajamani/Exp-7-Synchornous-counters-/assets/120544804/b5ac5814-9c90-4273-a354-0abfbe95ba3e)
-```
-```
 DOWN COUNTER:
 ![ex6downtruth](https://github.com/LokeshRajamani/Exp-7-Synchornous-counters-/assets/120544804/468bb976-0c9e-4735-938c-c16071acfd6a)
-
-```
 ### RESULTS:
 Thus Synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
